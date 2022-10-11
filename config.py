@@ -1,0 +1,8 @@
+DATA_PATH = 'data'
+TTS_PATH = f'{DATA_PATH}/TTS'
+CONFIG_PATH = f'{DATA_PATH}/config.json'
+MODEL_PATH = f'{DATA_PATH}/best_model.pth.tar'
+CONFIG_SE_PATH = f'{DATA_PATH}/config_se.json'
+TTS_SPEAKERS_PATH = f'{DATA_PATH}/speakers.json'
+TTS_LANGUAGES_PATH = f'{DATA_PATH}/language_ids.json'
+CHECKPOINT_SE_PATH = f'{DATA_PATH}/SE_checkpoint.pth.tar'
