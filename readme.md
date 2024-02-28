@@ -1,4 +1,4 @@
-#### Voice Conversion
+#### One-Shot Voice Conversion
 
 * https://github.com/coqui-ai/TTS
 * https://t.me/vaaliferov_yourvc_bot
