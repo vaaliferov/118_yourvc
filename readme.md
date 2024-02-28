@@ -11,4 +11,4 @@ pip install -r requirements.txt
 python3 bot.py <bot_owner_id> <bot_token>
 ```
 
-![Alt Text](pics/tg.png)
+<p align="left"><img src="pics/tg.png" width="400"></p>
