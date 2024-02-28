@@ -1,5 +1,8 @@
-numpy
-torch
-soundfile
-torchaudio
-python-telegram-bot
+-f https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.2.1+cpu
+torchaudio==2.2.1+cpu
+
+TTS==0.22.0
+ffmpeg-normalize==1.27.7
+python-telegram-bot==20.8
